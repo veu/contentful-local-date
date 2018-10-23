@@ -1,0 +1,14 @@
+{
+    "id": "mmn-local-date",
+    "name": "Local Date",
+    "srcdoc": "./index.html",
+    "fieldTypes": ["Date"],
+    "instance": [
+        {
+        "id": "helpText",
+        "type": "Symbol",
+        "name": "Help text",
+        "description": "This help text will show up below the field"
+        }
+    ]
+}
